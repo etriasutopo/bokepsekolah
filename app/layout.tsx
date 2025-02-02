@@ -14,7 +14,7 @@ export const metadata: Metadata = {
         canonical: `/`,
     },
     openGraph: {
-        title: `${SITENAME} - Video Bokep Indo Jepang Barat Viral Terbaru`,
+        title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
         description: `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
         url: `/`,
         type: `website`,
@@ -45,17 +45,6 @@ export default function RootLayout({
             "url":"https://bokepsekolah.pages.dev"
             },
             "foundingDate":"2024-01-09"
-        }
-        const jsonLd1 = {
-            "@context": "https://schema.org",
-        "@type": "WebPage",
-        "name": `${SITENAME}`,
-        "url": "https://bokepsekolah.pages.dev",
-        "description": `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
-        "image": "https://bokepsekolah.pages.dev/favicon.ico",
-        "potentialAction":{
-            "@type":"ReadAction",
-            "target":"https://bokepsekolah.pages.dev"}
         }
         const jsonLd2 = {
             "@context": "https://schema.org",
