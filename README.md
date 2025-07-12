@@ -1,2 +1,2 @@
-# bokepsekolah
-bokepsekolah
+
+[bokepsekolah](https://bokepsekolah.pages.dev)
